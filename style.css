@@ -63,6 +63,16 @@ p{
     border-radius : 15px;
     background : #CAF0F8;
     opacity : 0.75;
+    padding : 10px;
+}
+form{
+    margin-bottom : 30px;
+    margin : 20px auto;
+    width : fit-content;
+    border-radius : 15px;
+    background : #CAF0F8;
+    opacity : 0.75;
+    padding : 10px;
 }
 @media screen and (max-width: 480px) {
     body {
@@ -77,5 +87,8 @@ p{
     }
     h2 {
         font-size: 22px;
+    }
+    p {
+        font-size: 16px;
     }
 }
