@@ -27,6 +27,11 @@ nav ul li{
     display : inline;
     margin-right : 15px;
 }
+
+main {
+    margin: auto 0;
+    height: 200px;
+}
 h1{
     color : #00B4D8;
     font-size : 36px;
@@ -73,6 +78,14 @@ form{
     background : #CAF0F8;
     opacity : 0.75;
     padding : 10px;
+}
+img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color : #CAF0F8;
+    opacity : 0.75;
+    padding : 2.5px;
 }
 @media screen and (max-width: 480px) {
     body {
